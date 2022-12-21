@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rebecca 
-- 💻 I’m currently studying Web Design & Development
+- 💻 I’m studying Web Design & Development
 - 🌱 I’m currently learning Git, Python & SQL
 - 📫 Mail: rbrantley0414@gmail.com
 
