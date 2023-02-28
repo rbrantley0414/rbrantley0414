@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rebecca 
 - 💻 I’m studying Web Design & Development
-- 🌱 I’m currently learning mySQL
+- 🌱 I’m currently learning SQL
 - 📫 Mail: rbrantley0414@gmail.com
 
 <!---
